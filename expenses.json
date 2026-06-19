@@ -1,0 +1,12 @@
+[
+    {
+        "category": "vegetables",
+        "amount": 200.0,
+        "description": "cucumber, onions"
+    },
+    {
+        "category": "fruits",
+        "amount": 100.0,
+        "description": "banana, apple"
+    }
+]
